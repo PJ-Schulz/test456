@@ -23,7 +23,7 @@ trio-util = "^0.7.0"
 [tool.poetry.group.dev.dependencies]
 isort = "^5.12.0"
 flake8 = "^6.0.0"
-hypothesis = "^6.67.1"
+hypothesis = "^6.68.1"
 pytest = "^7.2.1"
 pytest-docker = "^1.0.1"
 pytest-trio = "^0.8.0"
